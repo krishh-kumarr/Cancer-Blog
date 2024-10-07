@@ -1,0 +1,29 @@
+nav {
+    background-color: #00bcd4; /* Cyan */
+    padding: 1rem;
+    color: white;
+}
+
+nav h2 {
+    display: inline;
+    margin-right: 2rem;
+}
+
+nav ul {
+    display: inline;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
