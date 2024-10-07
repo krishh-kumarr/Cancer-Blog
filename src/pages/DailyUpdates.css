@@ -1,0 +1,52 @@
+.daily-updates {
+    padding: 20px;
+    background-color: #f7fafc; /* Light gray background */
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    text-align: center;
+    color: #2d3748; /* Darker text for the title */
+  }
+  
+  .updates-list {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .update-item {
+    padding: 16px;
+    background-color: #fff; /* White background for each item */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    transition: box-shadow 0.3s ease; /* Smooth shadow transition */
+    margin-bottom: 16px; /* Space between items */
+  }
+  
+  .update-item:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2); /* Shadow on hover */
+  }
+  
+  .update-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1a202c; /* Darker text for the title */
+  }
+  
+  .update-description {
+    color: #4a5568; /* Dark gray text for description */
+  }
+  
+  .read-more {
+    color: #3182ce; /* Blue link color */
+    text-decoration: none; /* Remove underline */
+    margin-top: 8px; /* Space above the link */
+    display: inline-block; /* Make link block level */
+  }
+  
+  .read-more:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  

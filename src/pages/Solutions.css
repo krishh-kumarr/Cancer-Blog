@@ -1,0 +1,67 @@
+.solutions-container {
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background */
+    border-radius: 8px; /* Rounded corners */
+    max-width: 800px; /* Max width for the container */
+    margin: 20px auto; /* Centering the container */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .solutions-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #343a40; /* Darker text color */
+    text-align: center; /* Centered title */
+    margin-bottom: 15px; /* Space below title */
+  }
+  
+  .solutions-intro {
+    text-align: center; /* Centered intro text */
+    margin-bottom: 25px; /* Space below intro text */
+    color: #6c757d; /* Gray text color */
+  }
+  
+  .solutions-list {
+    list-style-type: none; /* No bullet points */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .solution-item {
+    background-color: #ffffff; /* White background for items */
+    border: 1px solid #dee2e6; /* Border around items */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Padding inside items */
+    margin-bottom: 15px; /* Space between items */
+    transition: transform 0.2s; /* Smooth hover effect */
+  }
+  
+  .solution-item:hover {
+    transform: translateY(-5px); /* Slight lift effect on hover */
+  }
+  
+  .solution-title {
+    font-size: 1.5rem; /* Larger title font */
+    color: #007bff; /* Blue color for titles */
+    margin-bottom: 10px; /* Space below title */
+  }
+  
+  .solution-description {
+    color: #495057; /* Dark gray for description */
+    margin-bottom: 10px; /* Space below description */
+  }
+  
+  .solution-links {
+    font-size: 0.9rem; /* Smaller font for links */
+    color: #6c757d; /* Gray text for links */
+  }
+  
+  .solution-link {
+    color: #007bff; /* Blue color for links */
+    text-decoration: underline; /* Underlined links */
+  }
+  
+  .solution-link:hover {
+    color: #0056b3; /* Darker blue on hover */
+    text-decoration: none; /* Remove underline on hover */
+  }
+  

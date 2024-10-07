@@ -1,0 +1,62 @@
+.trial-methods-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9; /* Light background for contrast */
+    border-radius: 8px; /* Rounded corners for a modern look */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .trial-title {
+    color: #2c3e50; /* Darker text for title */
+    font-size: 2.5em; /* Larger font size for prominence */
+    margin-bottom: 10px;
+  }
+  
+  .trial-description {
+    color: #34495e; /* Slightly lighter text for description */
+    font-size: 1.1em; /* Medium font size for readability */
+    margin-bottom: 20px;
+  }
+  
+  .trial-subtitle {
+    color: #2980b9; /* Blue for subtitles */
+    font-size: 2em; /* Larger font size for subtitles */
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .trial-phase {
+    background-color: #fff; /* White background for trial phases */
+    padding: 15px;
+    border-radius: 5px; /* Rounded corners for trial phase boxes */
+    margin-bottom: 15px; /* Space between trial phases */
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .trial-phase-title {
+    color: #27ae60; /* Green for trial phase titles */
+    font-size: 1.5em; /* Larger font size for trial phase titles */
+    margin-bottom: 8px;
+  }
+  
+  .trial-phase-description {
+    color: #2c3e50; /* Consistent dark text color */
+    line-height: 1.5; /* Improved line height for readability */
+  }
+  
+  .trial-link {
+    color: #2980b9; /* Consistent link color */
+    text-decoration: underline; /* Underline for links */
+  }
+  
+  .trial-link:hover {
+    color: #1f639b; /* Darker blue on hover */
+  }
+  
+  .trial-eligibility, .trial-learn-more {
+    color: #34495e; /* Consistent text color for sections */
+    line-height: 1.5; /* Improved line height for readability */
+  }
+  
