@@ -18,7 +18,7 @@ const Home = () => {
       <div className="about-me">
         <h2>About Me</h2>
         <p>
-          Hello! I am <strong>Aditya Singh</strong>, a first-year BTech student specializing in Bioinformatics. 
+          Hello! I am <strong>KRISH KUMAR</strong>, a second-year BTech computer science and Engineering student. 
           My passion lies at the intersection of biology and technology, where I aim to leverage computational 
           methods to unravel complex biological data and contribute to advancements in healthcare.
         </p>
